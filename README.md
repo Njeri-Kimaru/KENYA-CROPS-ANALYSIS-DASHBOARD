@@ -35,7 +35,7 @@ This Power BI dashboard provides a comprehensive analysis of agricultural produc
 
 ## Preview
 
-![Dashboard Preview](screenshot1.png) <!-- #  Kenya Crops Analysis Dashboard (Power BI)
+![Dashboard Preview](Dashboard.png) <!-- #  Kenya Crops Analysis Dashboard (Power BI)
 
 This Power BI dashboard provides a comprehensive analysis of agricultural production in Kenya. It visualizes crop performance, revenue, profit, farmer distribution, and land usage across different counties and crop types.
 
